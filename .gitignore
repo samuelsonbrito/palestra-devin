@@ -1,0 +1,13 @@
+target/
+*.class
+
+node_modules/
+frontend/node/
+src/main/resources/static/
+
+.env
+*.local
+
+.idea/
+.vscode/
+*.iml
